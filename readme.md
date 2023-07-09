@@ -145,7 +145,7 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 </table>
 
 ## AZUBI Interview 
-1. What advice will you give someone considering joining tech? 
+### 1. What advice will you give someone considering joining tech? 
 
 - Embrace a growth mindset and be open to continuous learning.
 
@@ -157,42 +157,42 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 
 - Stay updated with the latest industry trends and technologies.
 
-2. What did you think about the quality of teaching and level of assistance? 
+### 2. What did you think about the quality of teaching and level of assistance? 
 
-The quality of teaching in the program has been excellent. The instructors are knowledgeable, experienced, and provide clear explanations. The level of assistance and support offered throughout the program has been exceptional, with prompt responses to queries and dedicated mentorship.
+The quality of teaching in the program has been excellent. The instructors are knowledgeable, and experienced, and provide clear explanations. The level of assistance and support offered throughout the program has been exceptional, with prompt responses to queries and dedicated mentorship.
 
-3. What did you like most about the program? 
+### 3. What did you like most about the program? 
 
 I particularly liked the program's practical approach, where I got to work on real-world projects. The hands-on experience allowed me to apply my learning and gain confidence in my abilities. Additionally, the program's emphasis on collaboration and networking helped me build connections with like-minded professionals.
 
-4. Are the lectures engaging and interesting? 
+### 4. Are the lectures engaging and interesting? 
 
 Yes, the lectures are engaging and interesting. The instructors use various teaching methods, including interactive discussions, demonstrations, and real-life examples, to make the content more relatable and engaging. The lectures foster a positive learning environment.
-5. What happens if you miss a lecture? 
+### 5. What happens if you miss a lecture? 
 
 If I miss a lecture, the program provides recorded sessions that I can access later. This flexibility allows me to catch up on missed content at my convenience.
 
-6. What do you think of the flexibility of the program? 
+### 6. What do you think of the flexibility of the program? 
 
 The program offers great flexibility, allowing me to learn at my own pace. The availability of pre-recorded lectures, online resources, and a supportive online community ensures that I can fit the program into my schedule while still receiving ample guidance and support.
 
-7. Do the projects worked on help you test your ability/skills? 
+### 7. Do the projects worked on help you test your ability/skills? 
 
 Absolutely! The projects worked on throughout the program provide an excellent opportunity to apply the skills and knowledge acquired. They challenge me to think critically, solve problems, and showcase my abilities. The feedback received on projects has been invaluable for my growth.
 
-8. What will you change about the program if you had a chance? 
+### 8. What will you change about the program if you had a chance? 
 
 If I had a chance, I would suggest incorporating more industry guest lectures and case studies to further bridge the gap between academia and practical application. This would provide additional insights into real-world scenarios and enhance the program's relevance to the current industry landscape.
 
-9. What do you think about the fee structure? 
+### 9. What do you think about the fee structure? 
 
 The fee structure is reasonable considering the comprehensive nature of the program, the quality of teaching, and the resources provided. The program offers great value for the investment, especially considering the potential career opportunities that can arise from acquiring data analytics skills.
 
-10. Would you say Azubi Has Changed your life? 
+### 10. Would you say Azubi Has Changed your life? 
 
 Yes, Azubi has changed my life by equipping me with in-demand data analytics skills and opening up new career possibilities. It has expanded my professional network, boosted my confidence, and empowered me to make a meaningful impact in the healthcare industry.
 
-11. Do you think you have gained enough skills through our programme to land your dream job? 
+### 11. Do you think you have gained enough skills through our programme to land your dream job? 
 
 Absolutely! The program has equipped me with a strong foundation in data analytics and provided hands-on experience with real-world projects. I am confident that the skills and knowledge gained through the program have prepared me to excel in my desired role as a healthcare data analyst.
 
@@ -201,11 +201,17 @@ Absolutely! The program has equipped me with a strong foundation in data analyti
 If you have any further questions or would like to get in touch, you can reach me at:
 
 [Email](acharoiro@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/stella-achar-oiro/)
+
 [Twitter](https://twitter.com/Stella_Oiro)
+
 [Portfolio](https://acharportfolio.carrd.co/)
+
 [HuggingFace](https://huggingface.co/Achar)
+
 [Blog](https://acharoiro.blogspot.com/)
+
 [Work with me](https://achars.carrd.co/)
 
 
