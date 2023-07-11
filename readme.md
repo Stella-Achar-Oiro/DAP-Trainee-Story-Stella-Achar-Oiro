@@ -35,23 +35,23 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td>EDA</td>
+<td>Conducted exploratory data analysis on NYC violations dataset</td>
+<td>Used Numpy and pandas libraries for EDA</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>SQL Project</td>
+<td>Performed data cleaning on Covid-19 datasets using SQL</td>
+<td>Identified and corrected errors, inconsistencies, and inaccuracies in the covid-19 datasets</td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Predicting Customer Churn</td>
+<td>An Analysis of Key Indicators and Retention Strategies</td>
+<td>Used </td>
 </tr>
 
 </tbody>
