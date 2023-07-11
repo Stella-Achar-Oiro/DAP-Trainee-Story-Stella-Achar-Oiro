@@ -51,7 +51,7 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 <td>3</td>
 <td>Predicting Customer Churn</td>
 <td>An Analysis of Key Indicators and Retention Strategies</td>
-<td>Used </td>
+<td>Used a dataset containing information on customers' demographics, services used, and payment history to analyze the factors that contribute to customer churn. </td>
 </tr>
 
 </tbody>
@@ -73,7 +73,7 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 
 <tr>
 <td>1</td>
-<td> </td>
+<td>Streamlit Favorita App</td>
 <td>Add the project description here...</td>
 <td>Add the article link here...</td>
 <td>Add the deployed app link here...</td>
