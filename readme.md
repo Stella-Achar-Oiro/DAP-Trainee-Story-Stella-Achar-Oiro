@@ -75,10 +75,12 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 <td>1</td>
 <td>Streamlit Favorita App</td>
 <td>Built a sales prediction app using streamlit</td>
-<td>[How to Build a Streamlit App for Favorita Grocery Sales Forecasting Using Regression Model](https://www.linkedin.com/pulse/how-build-streamlit-app-favorita-grocery-sales-forecasting-oiro)</td>
+<td><a href="https://www.linkedin.com/pulse/how-build-streamlit-app-favorita-grocery-sales-forecasting-oiro">How to Build a Streamlit App for Favorita Grocery Sales Forecasting Using Regression Model</a></td>
+
 <td>Add the deployed app link here...</td>
-<td>[Stremlit App](https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb)</td>
-<td>[Streamlit App](https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb)</td>
+<td><a href="https://www.linkedin.com/pulse/how-build-streamlit-app-favorita-grocery-sales-forecasting-oiro">How to Build a Streamlit App for Favorita Grocery Sales Forecasting Using Regression Model</a></td>
+<td><a href="https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb">Stremlit App</a></td>
+<td><a href="https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb">Stremlit App</a></td>
 </tr>
 
 <tr>
