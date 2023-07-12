@@ -74,11 +74,11 @@ My dream role is to work as a healthcare data analyst in a leading research inst
 <tr>
 <td>1</td>
 <td>Streamlit Favorita App</td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
+<td>Built a sales prediction app using streamlit</td>
+<td>[How to Build a Streamlit App for Favorita Grocery Sales Forecasting Using Regression Model](https://www.linkedin.com/pulse/how-build-streamlit-app-favorita-grocery-sales-forecasting-oiro)</td>
 <td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>[Stremlit App](https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb)</td>
+<td>[Streamlit App](https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb)</td>
 </tr>
 
 <tr>
